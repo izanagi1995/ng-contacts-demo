@@ -17,6 +17,8 @@ export class EntryCreationComponent implements OnInit {
       phoneNumber: [data.phoneNumber],
       nickname: [data.nickname]
     })
+
+    
   }
 
   ngOnInit(): void {
